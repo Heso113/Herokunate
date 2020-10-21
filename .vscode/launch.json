@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HerokunateApplication<herokunate>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "se.experis.olsson.hampus.herokunate.HerokunateApplication",
+            "projectName": "herokunate",
+            "args": ""
+        }
+    ]
+}
