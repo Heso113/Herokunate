@@ -1,0 +1,54 @@
+body {
+    background-color : #421813;
+    color: #f9b859;
+}
+
+h1 {
+    background-color: #632c1e;
+    color: #f9b859;
+}
+
+.text {
+    color: #f9b859;
+}
+
+.button {
+    border: none;
+    color: #f9b859;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: #8e4d2d;
+}
+
+table {
+    border: 2px solid black;
+    background-color: black;
+}
+
+th {
+    border: 1px solid black;
+    background-color: #632c1e;
+    font-weight: bold;
+    font-size: large;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    background-color: #8e4d2d;
+}
+
+
+.color1 {color: #421813;}
+.color2 {color: #632c1e;}
+.color3 {color: #8e4d2d;}
+.color4 {color: #c37a3d;}
+.color5 {color: #f9b859;}
